@@ -1,0 +1,2 @@
+# EasyR
+Simplified R Script
