@@ -5,4 +5,5 @@ For this to run you need to have R installed and added to PATH
 
 How to use:
 from cmd : easy_r.py database easy_r_script
-e.g. easy_r.py data.csv script.txt
+
+e.g. : easy_r.py data.csv script.txt
