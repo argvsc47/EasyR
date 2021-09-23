@@ -72,7 +72,7 @@ df <- read.csv("{sett}")
 	f.close()
 
 def compile():
-	os.system('Rscript cmp.r')
+	os.system('Rscript generate.r')
 
 import sys, os
 
